@@ -95,8 +95,6 @@ li {
 }
 .container {
   padding: 50px 0;
-
-
 }
 .intro__row {
   display: flex;
@@ -140,8 +138,6 @@ li {
     transform:translateY(0) ;
   }
 }
-
-
 .intro__pic {
   flex: 1;
   display: flex;
@@ -167,8 +163,6 @@ li {
     transform: scale(1);
   }
 }
-
-
 .intro__pic-top{
   width: 100%;
   transform: scale(1);
@@ -201,8 +195,6 @@ li {
   color: red;
   display: contents;
   justify-content: space-evenly;
-
-
 }
 .text--black {
   display: contents;
@@ -229,15 +221,11 @@ li {
     transform: rotate(0);
   }
 }
-
-
 .aboutme_link{
   font-size: 28px;
   color: #242424;
   padding: 0 16px;
   animation: fade-up 650ms 600ms backwards;
-
-
 }
 .fa, .fab, .fad, .fal, .far, .fas {
   -moz-osx-font-smoothing: grayscale;
@@ -263,9 +251,9 @@ li {
 .fa-link:before {
   content: "\f0c1";
 }
-
-
 /*
+
+
   Language
 
 
@@ -505,9 +493,6 @@ transition: transform 450ms, opacity 300ms;
   .project__description--links {
     display: flex;
     justify-content: center;
-  }
-  .Contact__William {
-    padding: 0;
   }
   .Copyright_willfooter {
     text-align: center;
